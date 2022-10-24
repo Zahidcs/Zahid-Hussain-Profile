@@ -22,3 +22,15 @@
 I am experienced in PHP | Magento | Adobe, I have been working on B2C and B2B multi websites and multi stores. I have developed magento2 extensions, customization and bug fixes. I can work on an ecommerce project independently.
 
 If you have any queries please feel free to ask.
+
+### Services :
+
+* Magento Ecommerce Development
+* Magento Migration
+* Magento Support
+* Magento Performance Optimization
+### Recent Projects :
+* b2c
+* b2b
+### Past Projects :
+* b2c
