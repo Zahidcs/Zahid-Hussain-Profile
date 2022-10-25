@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/zahidhussain20">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://zahidhussaindeveloper.wordpress.com">
+    <a href="https://zahidhussainmagento.wordpress.com">
       <img src="https://img.shields.io/badge/website-grey?style=for-the-badge&logo=website&logoColor=grey" alt="website Badge"/>
     </a>
      <a href="https://www.upwork.com/freelancers/~017e72d64c42764a21">
