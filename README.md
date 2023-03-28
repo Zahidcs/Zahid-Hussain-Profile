@@ -19,7 +19,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :man_technologist: About Me :
-I am experienced in PHP | Magento | Adobe, I have been working on B2C and B2B multi websites and multi stores. I have developed magento2 extensions, customization and bug fixes. I can work on an ecommerce project independently.
+I have experience in PHP | adobe commerce (Magento), I have been working on B2C and B2B multi websites and multi stores. I have developed magento2 extensions, customization and bug fixes. I can work on an ecommerce project independently.
 
 If you have any queries please feel free to ask.
 
@@ -35,7 +35,7 @@ If you have any queries please feel free to ask.
 * Support & Maintenance
 * Magento Performance Optimization
 ### Recent Projects :
-* Retailer ecommerce website with 300k products
-* b2c ecommerce project with more then 5k products ( simple, configurable and bundle)
-* b2b ecommece website with more then 6k customers( companies registered )
-* Food delivery ecommerce website with more then 10k products
+* Retailer (single store ) ecommerce website with 300k products
+* b2c ( multi store multi website ) ecommerce project with more then 5k products ( simple, configurable and bundle)
+* b2b ( multi store)  ecommece website with more then 6k customers( companies registered )
+* Food delivery ecommerce website ( multi store ) with more then 10k products
