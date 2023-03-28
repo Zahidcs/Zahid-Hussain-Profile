@@ -23,14 +23,19 @@ I am experienced in PHP | Magento | Adobe, I have been working on B2C and B2B mu
 
 If you have any queries please feel free to ask.
 
-### Services :
-
+### Magento Development Services :
 * Magento Ecommerce Development
-* Magento Migration
-* Magento Support
+* Magento Performance Optimization
+* Magento Extension Customization
+* Build a Magento Website
+* Magento Upgrade Service
+* Magento Data Migration
+* Magento Extension Development
+* Maintenance
+* Support & Maintenance
 * Magento Performance Optimization
 ### Recent Projects :
-* b2c
-* b2b
-### Past Projects :
-* b2c
+* Retailer ecommerce website with 300k products
+* b2c ecommerce project with more then 5k products ( simple, configurable and bundle)
+* b2b ecommece website with more then 6k customers( companies registered )
+* Food delivery ecommerce website with more then 10k products
