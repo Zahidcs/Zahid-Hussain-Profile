@@ -18,10 +18,10 @@
 </div>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 Having 5+ years experience in creating highly custom websites, customization, module development, API integration optimization and Theme integration.
 
-## I have worked on:
+### I have worked on:
 * ✅ Magento Community Edition.
 * ✅ Magento Enterprise Edition.
 * ✅ Magento Custom Extension Development.
