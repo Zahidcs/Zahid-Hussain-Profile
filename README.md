@@ -21,7 +21,7 @@
 ## :man_technologist: About Me :
 Having 5+ years experience in creating highly custom websites, customization, module development, API integration optimization and Theme integration.
 
-### I have worked on:
+## I have worked on:
 * ✅ Magento Community Edition.
 * ✅ Magento Enterprise Edition.
 * ✅ Magento Custom Extension Development.
@@ -30,21 +30,23 @@ Having 5+ years experience in creating highly custom websites, customization, mo
 * ✅ Magento Security Patches Installation.
 * ✅ Set-up Amazon AWS.
 * ✅ Product Entry 
-*✅ 3rd Party Payment & Shipment Gateways.
+* ✅ 3rd Party Payment & Shipment Gateways.
 
-### Magento Development Services :
-* Magento Ecommerce Development
-* Magento Performance Optimization
-* Magento Extension Customization
-* Build a Magento Website
-* Magento Upgrade Service
-* Magento Data Migration
-* Magento Extension Development
-* Maintenance
-* Support & Maintenance
-* Magento Performance Optimization
+## Adobe Commerce (Magento 2) Development Services:
+* ✅ Data Migration From Magento 1 to Magento 2.
+* ✅ APIs Integrations (Amazon, Odoo, Xero, Zapier, Taxjar, Soap & Rest).
+* ✅ Inventory, Products and Orders synchronization.
+* ✅ Advance Level Customization & Extending Core Functions.
+* ✅ Extensions Development, Customization & Installation
+* ✅ Updates/upgrades - Enterprise & Community Edition.
+* ✅ Shipping Customization & Payment Processor integrations.
+* ✅ Ongoing Maintenance & Security Patches Installation.
+* ✅ Magento Extension Customization
+* ✅ Magento Data Migration
+* ✅ Support & Maintenance
+* ✅ Magento Performance Optimization
 
-### Recent Projects :
+## Recent Projects :
 * Retailer (single store ) ecommerce website with 300k products
 * b2c ( multi store multi website ) ecommerce project with more then 5k products ( simple, configurable and bundle)
 * b2b ( multi store)  ecommece website with more then 6k customers( companies registered )
