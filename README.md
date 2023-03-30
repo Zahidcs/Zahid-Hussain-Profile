@@ -19,9 +19,18 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :man_technologist: About Me :
-I have experience in PHP | adobe commerce (Magento), I have been working on B2C and B2B multi websites and multi stores. I have developed magento2 extensions, customization and bug fixes. I can work on an ecommerce project independently.
+Having 5+ years experience in creating highly custom websites, customization, module development, API integration optimization and Theme integration.
 
-If you have any queries please feel free to ask.
+I have worked on:
+✅ Magento Community Edition.
+✅ Magento Enterprise Edition.
+✅ Magento Custom Extension Development.
+✅ APIs development and 3rd Party APIs installation.
+✅ Magento Upgrade.
+✅ Magento Security Patches Installation.
+✅ Set-up Amazon AWS.
+✅ Product Entry 
+✅ 3rd Party Payment & Shipment Gateways.
 
 ### Magento Development Services :
 * Magento Ecommerce Development
@@ -34,6 +43,7 @@ If you have any queries please feel free to ask.
 * Maintenance
 * Support & Maintenance
 * Magento Performance Optimization
+
 ### Recent Projects :
 * Retailer (single store ) ecommerce website with 300k products
 * b2c ( multi store multi website ) ecommerce project with more then 5k products ( simple, configurable and bundle)
