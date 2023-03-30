@@ -21,16 +21,16 @@
 ### :man_technologist: About Me :
 Having 5+ years experience in creating highly custom websites, customization, module development, API integration optimization and Theme integration.
 
-I have worked on:
-✅ Magento Community Edition.
-✅ Magento Enterprise Edition.
-✅ Magento Custom Extension Development.
-✅ APIs development and 3rd Party APIs installation.
-✅ Magento Upgrade.
-✅ Magento Security Patches Installation.
-✅ Set-up Amazon AWS.
-✅ Product Entry 
-✅ 3rd Party Payment & Shipment Gateways.
+## I have worked on:
+* ✅ Magento Community Edition.
+* ✅ Magento Enterprise Edition.
+* ✅ Magento Custom Extension Development.
+* ✅ APIs development and 3rd Party APIs installation.
+* ✅ Magento Upgrade.
+* ✅ Magento Security Patches Installation.
+* ✅ Set-up Amazon AWS.
+* ✅ Product Entry 
+*✅ 3rd Party Payment & Shipment Gateways.
 
 ### Magento Development Services :
 * Magento Ecommerce Development
